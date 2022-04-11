@@ -1,4 +1,4 @@
-# <div align="center"> Utilizing Graph to Make Sense of the March Madness </div>
+# <div align="center"> Utilizing Graph to Make Sense of March Madness </div>
 
 <div align="center">
   
@@ -13,3 +13,15 @@
 </div>
 
 This repository contains a Jupyter Notebook with exploration of March Madness data utilizing TigerGraph, Plotly and Seaborn. It also contains the export file for the TigerGraph solution used.
+
+## TigerGraph
+[TigerGraph](https://www.tigergraph.com/) is a graph database platform utilized for product serive and marketing, fruad protection, and in the case of this project, for a recommendation engine.
+
+Libraries Used:
+```
+pip install pyTigerGraph 
+pip install plotly
+pip install seaborn
+pip install matplotlib
+pip install cufflinks
+```
